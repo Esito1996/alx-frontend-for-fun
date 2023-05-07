@@ -1,29 +1,23 @@
 # Web Stack Specialization - Front-end
 ![Holberton logo](https://www.alxafrica.com/wp-content/uploads/2022/01/header-logo.png)
-
-> **[Web Stack - Front-end]**
+> Web Stack - Front-end
 
 ## Description:bulb:
-
-```diff
-
-+ Advanced HTML/CSS
-+ Developer Tools
-+ SCSS
-+ Flexbox
-+ Responsive Design
-+ Accesibility
-+ Working with Designers
-+ Design Implementation
-+ Bootstrap
-+ Advanced Javascript
-+ Advanced JQuery
-+ Cookies & Local Storage
-+ ES6
-+ Webpack
-+ Building Portfolio Applications
-
-```
+* Advanced HTML/CSS
+* Developer Tools
+* SCSS
+* Flexbox
+* Responsive Design
+* Accesibility
+* Working with Designers
+* Design Implementation
+* Bootstrap
+* Advanced Javascript
+* Advanced JQuery
+* Cookies & Local Storage
+* ES6
+* Webpack
+* Building Portfolio Applications
 
 ## Technologies & Tools:computer:
 
@@ -45,8 +39,4 @@
 ![JSON](https://img.shields.io/badge/≡-JSON-000000?logo=JSON&style=flat-square&labelColor=282828)
 
 ---
-
-## Author
-* **Afolabi Oluwaseun**
-  [<img src="https://img.shields.io/badge/GitHub-181717.svg?&style=plastic&logo=github&logoColor=white"/>](https://github.com/Esito1996?tab=repositories)
 
